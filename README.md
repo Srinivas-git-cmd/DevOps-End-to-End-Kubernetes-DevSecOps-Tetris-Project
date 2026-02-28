@@ -32,7 +32,7 @@ Welcome to an immersive DevSecOps learning experience! This project guides you t
    Navigate into each directory to find detailed scripts, pipelines, and configurations.
 
 3. **Follow the Blog:**
-   Implementation details and insights are documented in the associated [blog post](https://amanpathakdevops.medium.com/devsecops-mastery-a-step-by-step-guide-to-deploying-tetris-on-aws-eks-with-jenkins-and-argocd-3adcf21b3120).
+   Implementation details and insights are documented in the associated [blog post]([https://medium.com/@srinivas9390.g/end-to-end-devsecops-kubernetes-project-using-aws-eks-with-terraform-jenkins-and-argocd-d4dc21a12618])
 
 ## Tools Explored 🛠️
 1. **Jenkins:** Automated CI/CD pipelines
@@ -53,3 +53,4 @@ Welcome to an immersive DevSecOps learning experience! This project guides you t
 ## License 📄
 
    This project is licensed under the Apache-2.0 license see the [LICENSE](http://www.apache.org/licenses/) file for details.
+
